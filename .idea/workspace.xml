@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e609ce1-8df2-46a1-806a-56fc06b69d84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hp/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hp/SpringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\idea_java\springboot\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VSdqBhbUaDy4vzC1zRWQLEaibd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_java\springboot\src\main\resources" />
+      <recent name="D:\idea_java\springboot\src\main\java\com\hp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.SpringTest" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e609ce1-8df2-46a1-806a-56fc06b69d84" name="Default Changelist" comment="" />
+      <created>1577250618641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577250618641</updated>
+      <workItem from="1577250623761" duration="203000" />
+      <workItem from="1577250854538" duration="3409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1577259272808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577259272808" />
+    <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1577259287898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577259287898" />
+    <state width="1322" height="438" key="GridCell.Tab.0.bottom" timestamp="1577258543127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="438" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577258543127" />
+    <state width="1322" height="438" key="GridCell.Tab.0.center" timestamp="1577258543126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="438" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577258543126" />
+    <state width="1322" height="438" key="GridCell.Tab.0.left" timestamp="1577258543126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="438" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577258543126" />
+    <state width="1322" height="438" key="GridCell.Tab.0.right" timestamp="1577258543126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="438" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577258543126" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1577259184283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577259184283" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577259325111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577259325111" />
+    <state x="472" y="165" key="git4idea.merge.GitPullDialog" timestamp="1577259236382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="472" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1577259236382" />
+  </component>
+</project>
