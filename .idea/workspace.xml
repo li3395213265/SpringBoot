@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e609ce1-8df2-46a1-806a-56fc06b69d84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hp/SpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hp/SpringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,49 +98,74 @@
       <option name="presentableId" value="Default" />
       <updated>1577250618641</updated>
       <workItem from="1577250623761" duration="203000" />
-      <workItem from="1577250854538" duration="3409000" />
+      <workItem from="1577250854538" duration="5256000" />
+      <workItem from="1577261517361" duration="677000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1577259373635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577259373636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1577259272808">
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577261235548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577259272808" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577261235548" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1577262297340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577262297340" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1577259287898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577259287898" />
-    <state width="1322" height="438" key="GridCell.Tab.0.bottom" timestamp="1577258543127">
+    <state width="1322" height="114" key="GridCell.Tab.0.bottom" timestamp="1577261250766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="438" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577258543127" />
-    <state width="1322" height="438" key="GridCell.Tab.0.center" timestamp="1577258543126">
+    <state width="1322" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577261250766" />
+    <state width="1322" height="114" key="GridCell.Tab.0.center" timestamp="1577261250766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="438" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577258543126" />
-    <state width="1322" height="438" key="GridCell.Tab.0.left" timestamp="1577258543126">
+    <state width="1322" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577261250766" />
+    <state width="1322" height="114" key="GridCell.Tab.0.left" timestamp="1577261250766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="438" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577258543126" />
-    <state width="1322" height="438" key="GridCell.Tab.0.right" timestamp="1577258543126">
+    <state width="1322" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577261250766" />
+    <state width="1322" height="114" key="GridCell.Tab.0.right" timestamp="1577261250766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="438" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577258543126" />
+    <state width="1322" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577261250766" />
+    <state x="398" y="51" width="570" height="622" key="RefactorJ.ExtractClass" timestamp="1577261909483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="51" width="570" height="622" key="RefactorJ.ExtractClass/0.0.1366.728@0.0.1366.728" timestamp="1577261909483" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1577259184283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577259184283" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577259325111">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577259400617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577259325111" />
-    <state x="472" y="165" key="git4idea.merge.GitPullDialog" timestamp="1577259236382">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577259400617" />
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1577261515460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1577259236382" />
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577261515460" />
+    <state x="472" y="165" key="git4idea.merge.GitPullDialog" timestamp="1577262309513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="472" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262309513" />
   </component>
 </project>
