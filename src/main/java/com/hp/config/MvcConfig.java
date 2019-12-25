@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Component
 public class MvcConfig implements WebMvcConfigurer {
 
-    @Bean
+
     public Loginto loginto(){
         //产生对象
         return  new Loginto();
