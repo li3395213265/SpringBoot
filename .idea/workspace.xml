@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e609ce1-8df2-46a1-806a-56fc06b69d84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,7 @@
       <updated>1577250618641</updated>
       <workItem from="1577250623761" duration="203000" />
       <workItem from="1577250854538" duration="5256000" />
-      <workItem from="1577261517361" duration="677000" />
+      <workItem from="1577261517361" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1577259373635</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577259373636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1577262340658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577262340658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,17 +122,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577261235548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577261235548" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1577262297340">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1577262338611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577262297340" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577262338611" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1577259287898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,17 +162,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577259184283" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577259400617">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577262563651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577259400617" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577262563651" />
     <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1577261515460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577261515460" />
-    <state x="472" y="165" key="git4idea.merge.GitPullDialog" timestamp="1577262309513">
+    <state x="472" y="165" key="git4idea.merge.GitPullDialog" timestamp="1577262574222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262309513" />
+    <state x="472" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262574222" />
+    <state x="494" y="269" key="git4idea.ui.GitResetDialog" timestamp="1577262491271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="269" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262491271" />
   </component>
 </project>
